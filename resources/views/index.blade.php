@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-
+    <!-- nothing new -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -45,7 +45,7 @@
               <a class="nav-link js-scroll-trigger" href="#about">inscription</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="team">Login</a>
+              <a class="nav-link js-scroll-trigger" href="login">Login</a>
             </li>
             
             <li class="nav-item">
