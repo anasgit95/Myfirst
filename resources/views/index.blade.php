@@ -14,11 +14,6 @@
     <link href="{{ asset('bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="{{ asset('fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
-    <link href="{{ URL::asset('www/html/work/vendor/fonts.googleapis.com/css?family=Montserrat:400,700') }}"rel="stylesheet" type="text/css">
-    <link href="{{ URL::asset('https:www/html/work/vendor/fonts.googleapis.com/css?family=Kaushan+Script') }}" rel='stylesheet' type='text/css'>
-    <link href="{{ URL::asset('https:www/html/work/vendor/fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' ) }}"rel='stylesheet' type='text/css'>
-    <link href="{{ URL::asset('https:www/html/work/vendor/fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' ) }}"rel='stylesheet' type='text/css'>
 
     <!-- Custom styles for this template -->
     <link href="css/agency.min.css" rel="stylesheet">
@@ -50,7 +45,7 @@
               <a class="nav-link js-scroll-trigger" href="#about">inscription</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#team">Login</a>
+              <a class="nav-link js-scroll-trigger" href="team">Login</a>
             </li>
             
             <li class="nav-item">
@@ -68,20 +63,20 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Tunisia Event</div>
-          <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Inscriver vous</a>
+          <div class="intro-lead-in">Welcome to  Student learning events </div>
+          <div class="intro-heading text-uppercase">That great to see you here </div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Looking for Events ? </a>
         </div>
       </div>
     </header>
 
     <!-- Services -->
     <section id="services">
-      <div class="container">3
+      <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Notre sponsor</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Nos Events</h2>
+            <h3 class="section-subheading text-muted">nos evenements</h3>
           </div>
         </div>
         <div class="row text-center">
