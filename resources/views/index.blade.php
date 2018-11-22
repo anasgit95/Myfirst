@@ -47,7 +47,7 @@
               <a class="nav-link js-scroll-trigger" href="#about">inscription</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="login">Login</a>
+              <a class="nav-link js-scroll-trigger" href="{{URL::route('login')}}">Login</a>
             </li>
             
             <li class="nav-item">
